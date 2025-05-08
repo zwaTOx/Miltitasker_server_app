@@ -21,7 +21,8 @@ MultiTasker - это кроссплатформенное приложение �
 
 ### Инструкция установки
 1. **Склонируйте репозиторий:**
-```bash
+```
+bash
 git clone https://github.com/zwaTOx/Miltitasker_server_app
 cd multitasker
 ```
@@ -70,7 +71,8 @@ git clone https://github.com/zwaTOx/Miltitasker_server_app
 cd multitasker
 ```
 2. **Install dependencies:**
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 3. **Configure:**
 ```
