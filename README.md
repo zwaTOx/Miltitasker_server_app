@@ -38,7 +38,7 @@ cp .env.example .env
 python run.py
 ```
 
-##📬 Контакты автора:
+## 📬 Контакты автора:
 
 Email: yakov.g.ruslanovich@gmail.com
 
