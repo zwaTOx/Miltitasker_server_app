@@ -39,6 +39,7 @@ python run.py
 ```
 
 ##📬 Контакты автора:
+
 Email: yakov.g.ruslanovich@gmail.com
 
 
@@ -79,5 +80,6 @@ cp .env.example .env
 ```
 python run.py
 ```
-##📬 Contact:
+## 📬 Contact
+
 Email: yakov.g.ruslanovich@gmail.com
